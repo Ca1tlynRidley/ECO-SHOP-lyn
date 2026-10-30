@@ -4,15 +4,7 @@ Client-and-server survival shop for **Minecraft Java 26.2 / Fabric**, connected 
 
 ## Requirements
 
-<<<<<<< HEAD
 -
-=======
-1. Use Minecraft Java **26.2**, **Fabric Loader 0.20.1+**, **Fabric API for 26.2**, and **Java 25+**.
-2. Stop your server and copy `dist/1.3.0/ECO-SHOP-lyn 1.0.0.jar` into its `mods/` directory.
-3. Install **ECO-API-lyn-1.2.0.jar** alongside it. PROFILE-lyn is optional; if installed, its `{money}` display automatically uses the same balances.
-4. Remove the old shop JAR from the 26.2 server. Impactor is not required by this mod. Existing Impactor balances are not migrated automatically.
-5. Install Fabric Loader, Fabric API for 26.2 and SHOP-MOD-lyn 1.3.0 on each player's client. ECO is server-only. Start the server and use `/shop` and `/sell` with those matching client mods installed. Plain vanilla or missing/mismatched clients are refused before world entry.
->>>>>>> d07b26d (Add Totems at 300 and update JAR filename)
 
 ## Commands
 
@@ -63,7 +55,6 @@ Prices are per **individual item**, not per stack. They are balanced as a delibe
 | Iron ingot | $150.00 | $0.50 |
 | Gold ingot | $250.00 | $0.75 |
 | Ordinary egg | $15.00 | $0.02 |
-| Totem of Undying | $300.00 | $1.00 |
 
 ## Rare-item exclusions
 
@@ -73,14 +64,11 @@ The fixed-price catalog accepts only vanilla `minecraft:` identifiers. **URLMusi
 
 ## Edit prices without rebuilding
 
-Totems of Undying are included in Gear at 300.00 to buy and 1.00 to sell. Existing price files receive the entry once if it is missing. An existing Totem entry, including customized prices or `enabled: false`, is preserved. The one-time update adds `catalogRevision: 1` and creates a `.pre-totem.bak` backup. After that update, you can edit or remove the entry normally.
-
 The server creates **`config/shop-mod-lyn/prices.json`** at first start. A matching sample is in this project's `config/prices.json`. Prices use quoted currency-unit strings with up to two decimal places, never floating point values:
 
 ```json
 {
   "schemaVersion": 1,
-  "catalogRevision": 1,
   "maxPurchase": 2304,
   "sellCooldownSeconds": {"iron": 120, "gold": 90, "diamond": 45},
   "items": {
@@ -112,7 +100,7 @@ This implements **shop cooldown benefits only**. Daily money grants, real-money 
 .\gradlew.bat build
 ```
 
-The requested download filename is `ECO-SHOP-lyn 1.0.0.jar`. The internal mod ID and version remain `shop_mod_lyn` / `1.3.0` for client compatibility. The install JAR is `build/libs/ECO-SHOP-lyn 1.0.0.jar`; source JAR is next to it. `tools/package.ps1` assembles `dist/1.3.0/`. The original code is MIT; see LICENSE. No Minecraft JARs are distributed in this project.
+The install JAR is `build/libs/SHOP-MOD-lyn-1.3.0.jar`; source JAR is next to it. `tools/package.ps1` assembles `dist/1.3.0/`. The original code is MIT; see LICENSE. No Minecraft JARs are distributed in this project.
 
 `Trades` uses ECO-API-lyn's `withdraw()`/`deposit()` results, not `setBalance()` or a scoreboard bridge. UUIDs identify accounts. Operations run on the Minecraft server thread, recheck quoted inventory contents, check totals using integer cents, and persist player inventory after applying the trade. Failed money operations leave item counts unchanged. Inventory-application exceptions attempt checked compensation and record incidents in the world at `shop-mod-lyn/incidents.log` for operator reconciliation.
 
