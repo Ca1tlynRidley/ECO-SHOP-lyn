@@ -1,4 +1,4 @@
-# SHOP-MOD-lyn 1.3.0
+# ECO-SHOP-lyn 1.0.0
 
 Client-and-server survival shop for **Minecraft Java 26.2 / Fabric**, connected directly to **ECO-API-lyn**. This is a separate Gradle project rebuilt from the behavior of the old 1.20.1 shop. The old Desktop/shopmod project and its worlds are unchanged.
 
