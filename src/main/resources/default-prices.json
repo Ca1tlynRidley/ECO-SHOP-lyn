@@ -6685,6 +6685,12 @@
       "sell": "0.01",
       "enabled": true
     },
+    "minecraft:totem_of_undying": {
+      "category": "gear",
+      "buy": "300.00",
+      "sell": "1.00",
+      "enabled": true
+    },
     "minecraft:trapped_chest": {
       "category": "blocks",
       "buy": "100.00",
@@ -7633,5 +7639,6 @@
       "sell": "0.01",
       "enabled": true
     }
-  }
+  },
+  "catalogRevision": 1
 }

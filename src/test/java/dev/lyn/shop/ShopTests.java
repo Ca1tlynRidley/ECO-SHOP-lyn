@@ -16,6 +16,10 @@ class ShopTests {
     @Test void regularEggsAndNewColoredEggsCanAlwaysBeSold()throws Exception{
         for(String id:List.of("egg","blue_egg","brown_egg")){var p=defaults().items().get("minecraft:"+id);assertNotNull(p,id);assertTrue(p.sell()>0);}
     }
+    @Test void totemsAreAvailableInGearForThreeHundredDollarsWithALowerSellPrice()throws Exception{
+        var totem=defaults().items().get("minecraft:totem_of_undying");assertNotNull(totem);
+        assertTrue(CatalogPolicy.allowed(totem.id()));assertEquals("gear",totem.category());assertEquals(30_000,totem.buy());assertEquals(100,totem.sell());
+    }
     @Test void rareRewardsAdminItemsAndModdedMusicDiscsAreExcluded()throws Exception{
         var catalog=defaults();
         for(String id:List.of("minecraft:netherite_ingot","minecraft:netherite_sword","minecraft:netherite_upgrade_smithing_template","minecraft:ancient_debris","minecraft:dragon_egg","minecraft:dragon_head","minecraft:end_portal_frame","minecraft:elytra","minecraft:mace","minecraft:heavy_core","minecraft:nether_star","minecraft:enchanted_golden_apple","minecraft:diamond_spawn_egg","urlmusicdisc:disc")){

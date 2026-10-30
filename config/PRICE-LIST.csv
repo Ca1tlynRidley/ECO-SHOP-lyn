@@ -1112,6 +1112,7 @@ minecraft:tnt_minecart,utility,500.00,0.01,True
 minecraft:torch,blocks,100.00,0.01,True
 minecraft:torchflower,nature,25.00,0.01,True
 minecraft:torchflower_seeds,nature,25.00,0.01,True
+minecraft:totem_of_undying,gear,300.00,1.00,True
 minecraft:trapped_chest,blocks,100.00,0.01,True
 minecraft:tripwire_hook,blocks,100.00,0.01,True
 minecraft:tropical_fish,blocks,100.00,0.01,True

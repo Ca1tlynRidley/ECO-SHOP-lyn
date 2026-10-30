@@ -16,7 +16,7 @@ with zipfile.ZipFile(oldjar) as z:
 def allowed(p):
     return p not in excluded and 'netherite' not in p and not p.endswith(('_spawn_egg','_pottery_sherd','_armor_trim_smithing_template','_shulker_box')) and not p.startswith(('music_disc_','infested_')) and 'sherd' not in p
 special = {
-    'diamond':('5000','25'), 'emerald':('7500','0.25'), 'iron_ingot':('150','0.50'), 'gold_ingot':('250','0.75'), 'copper_ingot':('30','0.10'),
+    'totem_of_undying':('300','1.00'), 'diamond':('5000','25'), 'emerald':('7500','0.25'), 'iron_ingot':('150','0.50'), 'gold_ingot':('250','0.75'), 'copper_ingot':('30','0.10'),
     'coal':('20','0.05'), 'charcoal':('20','0.05'), 'redstone':('25','0.05'), 'lapis_lazuli':('40','0.05'), 'quartz':('50','0.05'),
     'diamond_block':('45000','225'), 'emerald_block':('67500','2.25'), 'iron_block':('1350','4.50'), 'gold_block':('2250','6.75'), 'copper_block':('270','0.90'),
     'raw_iron':('100','0.35'), 'raw_gold':('175','0.50'), 'raw_copper':('20','0.05'), 'raw_iron_block':('900','3.15'), 'raw_gold_block':('1575','4.50'), 'raw_copper_block':('180','0.45'),
@@ -37,7 +37,7 @@ for item in catalog:
     category='blocks'; buy,sell='100','0.01'
     if name.endswith(('_log','_wood','_stem','_hyphae')): buy='25'
     if name.endswith('_planks'): buy='8'
-    if name.endswith(('_sword','_spear','_pickaxe','_axe','_shovel','_hoe','_helmet','_chestplate','_leggings','_boots')) or name in ('bow','crossbow','shield','arrow'): category='gear'; buy='250'
+    if name.endswith(('_sword','_spear','_pickaxe','_axe','_shovel','_hoe','_helmet','_chestplate','_leggings','_boots')) or name in ('bow','crossbow','shield','arrow','totem_of_undying'): category='gear'; buy='250'
     elif name in ('redstone','repeater','comparator','hopper','piston','sticky_piston','observer','dispenser','dropper','crafter') or name.endswith(('_button','_pressure_plate','_rail')): category='redstone'; buy='500'
     elif any(word in name for word in ('seeds','sapling','flower','leaves','coral','bush','mushroom','grass','tulip','daisy','fern','moss','vines')): category='nature'; buy='25'
     elif name.endswith(('_ingot','_nugget','_dye','_shard')) or name in ('diamond','emerald','coal','charcoal','quartz','lapis_lazuli','string','leather','bone','gunpowder','slime_ball','stick','paper','blaze_rod'): category='ingredients'
@@ -46,7 +46,7 @@ for item in catalog:
     if name not in old: category='new'
     if name in special: buy,sell=special[name]
     items[item['id']]={'category':category,'buy':f'{Decimal(buy):.2f}','sell':f'{Decimal(sell):.2f}','enabled':True}
-data={'schemaVersion':1,'maxPurchase':2304,'sellCooldownSeconds':{'iron':120,'gold':90,'diamond':45},'items':dict(sorted(items.items()))}
+data={'schemaVersion':1,'catalogRevision':1,'maxPurchase':2304,'sellCooldownSeconds':{'iron':120,'gold':90,'diamond':45},'items':dict(sorted(items.items()))}
 destination=root/'src/main/resources/default-prices.json'
 destination.write_text(json.dumps(data,indent=2)+'\n',encoding='utf-8')
 (root/'config').mkdir(exist_ok=True)

@@ -15,8 +15,11 @@ public final class CatalogStore {
         Files.createDirectories(path.getParent());
         if (!Files.exists(path)) try(var input=getClass().getResourceAsStream("/default-prices.json")) { Files.write(path,java.util.Objects.requireNonNull(input).readAllBytes()); }
         if(Files.size(path)>2_000_000) throw new IllegalArgumentException("Catalog exceeds 2 MB");
-        ShopCatalog candidate=ShopCatalog.parse(Files.readString(path,StandardCharsets.UTF_8));
+        String original=Files.readString(path,StandardCharsets.UTF_8);
+        var update=CatalogUpdates.prepare(original);
+        ShopCatalog candidate=ShopCatalog.parse(update.json());
         for(String id:candidate.items().keySet()) if(!BuiltInRegistries.ITEM.containsKey(Identifier.parse(id))) throw new IllegalArgumentException("Unknown 26.2 item: "+id);
+        if(update.changed())CatalogUpdates.persist(path,original,update.json());
         current=candidate;
     }
 }
