@@ -1,7 +1,5 @@
 package dev.lyn.shop;
 
-import net.minecraft.SharedConstants;
-import net.minecraft.server.Bootstrap;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.Identifier;
 import net.minecraft.world.item.ItemStack;
@@ -11,9 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class VanillaCatalogTest {
     @BeforeAll static void bootstrap(){
-        SharedConstants.tryDetectVersion();Bootstrap.bootStrap();
-        var lookup=net.minecraft.data.registries.VanillaRegistries.createLookup();
-        for(var pending:BuiltInRegistries.DATA_COMPONENT_INITIALIZERS.build(lookup))pending.apply();
+        MinecraftTestRegistry.init();
     }
     private ShopCatalog defaults()throws Exception{try(var input=getClass().getResourceAsStream("/default-prices.json")){return ShopCatalog.parse(new String(Objects.requireNonNull(input).readAllBytes(),java.nio.charset.StandardCharsets.UTF_8));}}
     @Test void everyConfiguredIdExistsAndEveryFreshPurchaseCanBeSold()throws Exception{

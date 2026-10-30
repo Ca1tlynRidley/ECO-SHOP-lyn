@@ -10,7 +10,7 @@ class ClientMetadataTest {
     @Test void shopClientHasNoHardEconomyDependencyAndServerHasItsOwnInitializer()throws Exception{
         try(var in=getClass().getResourceAsStream("/fabric.mod.json")){
             var mod=JsonParser.parseString(new String(Objects.requireNonNull(in).readAllBytes(),StandardCharsets.UTF_8)).getAsJsonObject();
-            assertEquals("*",mod.get("environment").getAsString());assertEquals("1.2.0",mod.get("version").getAsString());
+            assertEquals("*",mod.get("environment").getAsString());assertEquals("1.3.0",mod.get("version").getAsString());
             assertFalse(mod.getAsJsonObject("depends").has("eco_api_lyn"));
             assertEquals(">=1.2.0",mod.getAsJsonObject("suggests").get("eco_api_lyn").getAsString());
             assertEquals("dev.lyn.shop.network.ShopNetworking",mod.getAsJsonObject("entrypoints").getAsJsonArray("main").get(0).getAsString());

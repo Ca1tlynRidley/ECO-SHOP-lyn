@@ -43,7 +43,8 @@ public final class ShopMenu extends ChestMenu {
         String[] icons={"iron_ingot","stone","diamond_sword","apple","redstone","oak_sapling","crafting_table","copper_chest"};
         int[] slots={10,12,14,16,28,30,32,34};
         for(int i=0;i<categories.length;i++){String category=categories[i];put(slots[i],"minecraft:"+icons[i],pretty(category),()->showProducts(catalog.category(category),0),catalog.category(category).size()+" items","Click to browse");}
-        put(49,"minecraft:gold_ingot","Sell your items",this::sellList,"Your items remain in your inventory","until you confirm a sale.");finish();
+        put(49,"minecraft:gold_ingot","Sell your items",this::sellList,"Your items remain in your inventory","until you confirm a sale.");
+        put(50,"minecraft:chest","Player Auction House",()->dev.lyn.shop.auction.AuctionModule.open(owner,dev.lyn.shop.auction.AuctionMenu.Page.BUY_NOW),"Buy Now, bidding, and modded player items","Sell items to other players with /ah");finish();
     }
     private void showProducts(List<ShopCatalog.Product> products,int requested){
         listing=products;page=Math.clamp(requested,0,Math.max(0,(products.size()-1)/45));clear();

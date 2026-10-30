@@ -2,6 +2,7 @@ package dev.lyn.shop;
 
 import com.mojang.brigadier.arguments.StringArgumentType;
 import dev.lyn.eco.api.EcoApi;
+import dev.lyn.shop.auction.AuctionModule;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.command.v2.CommandRegistrationCallback;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents;
@@ -20,6 +21,7 @@ public final class ShopMod implements ModInitializer {
     private PlayerTiers tiers;
     private Trades trades;
     @Override public void onInitialize(){
+        AuctionModule.register();
         ServerLifecycleEvents.SERVER_STARTED.register(server->{
             try{
                 catalogs.load();Path folder=server.getWorldPath(LevelResource.ROOT).resolve("shop-mod-lyn");

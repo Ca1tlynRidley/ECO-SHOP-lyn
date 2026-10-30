@@ -1,5 +1,5 @@
 plugins { id 'net.fabricmc.fabric-loom' version '1.17.14' }
-version = '1.2.0'
+version = '1.3.0'
 group = 'dev.lyn'
 base { archivesName = 'SHOP-MOD-lyn' }
 loom { accessWidenerPath = file('src/main/resources/shop-mod-lyn.accesswidener') }
@@ -10,6 +10,7 @@ dependencies {
     implementation 'net.fabricmc.fabric-api:fabric-api:0.161.0+26.2'
     compileOnly files('libs/ECO-API-lyn-1.2.0.jar')
     runtimeOnly files('libs/ECO-API-lyn-1.2.0.jar')
+    testImplementation files('libs/ECO-API-lyn-1.2.0.jar')
     testImplementation platform('org.junit:junit-bom:5.12.2')
     testImplementation 'org.junit.jupiter:junit-jupiter'
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'

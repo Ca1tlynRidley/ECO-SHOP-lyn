@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "maxListingsPerPlayer": 20,
+  "maxActiveListings": 5000,
+  "defaultBuyNowHours": 48,
+  "defaultAuctionHours": 24,
+  "maxDurationHours": 72,
+  "defaultPriceCents": 1000,
+  "minimumBidIncrementCents": 100,
+  "bidIncrementPercent": 5,
+  "antiSnipeSeconds": 120,
+  "maxItemBytes": 1048576,
+  "blacklist": []
+}

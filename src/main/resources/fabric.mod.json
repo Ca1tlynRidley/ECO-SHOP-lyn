@@ -3,12 +3,31 @@
   "id": "shop_mod_lyn",
   "version": "${version}",
   "name": "SHOP-MOD-lyn",
-  "description": "A survival shop with ECO-API-lyn integration. Required on the server and every connecting client.",
-  "authors": ["lyn"],
+  "description": "Survival shop and player auction house with buy-now listings, bidding, and ECO-API-lyn integration. Required on server and clients.",
+  "authors": [
+    "lyn"
+  ],
   "license": "MIT",
   "environment": "*",
   "accessWidener": "shop-mod-lyn.accesswidener",
-  "entrypoints": {"main": ["dev.lyn.shop.network.ShopNetworking"], "server": ["dev.lyn.shop.ShopServer"], "client": ["dev.lyn.shop.client.ShopClient"]},
-  "depends": {"fabricloader": ">=0.20.1", "fabric-api": "*", "minecraft": "26.2", "java": ">=25"},
-  "suggests": {"eco_api_lyn": ">=1.2.0"}
+  "entrypoints": {
+    "main": [
+      "dev.lyn.shop.network.ShopNetworking"
+    ],
+    "server": [
+      "dev.lyn.shop.ShopServer"
+    ],
+    "client": [
+      "dev.lyn.shop.client.ShopClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "fabric-api": "*",
+    "minecraft": "26.2",
+    "java": ">=25"
+  },
+  "suggests": {
+    "eco_api_lyn": ">=1.2.0"
+  }
 }
