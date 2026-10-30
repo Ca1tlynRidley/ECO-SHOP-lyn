@@ -1,0 +1,7637 @@
+{
+  "schemaVersion": 1,
+  "maxPurchase": 2304,
+  "sellCooldownSeconds": {
+    "iron": 120,
+    "gold": 90,
+    "diamond": 45
+  },
+  "items": {
+    "minecraft:acacia_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_chest_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_door": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_fence": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_fence_gate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_hanging_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_leaves": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_planks": {
+      "category": "blocks",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_sapling": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_shelf": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_trapdoor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:acacia_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:activator_rail": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:allium": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:amethyst_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:amethyst_cluster": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:amethyst_shard": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:andesite": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:andesite_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:andesite_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:andesite_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:anvil": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:apple": {
+      "category": "food",
+      "buy": "30.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:armadillo_scute": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:armor_stand": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:arrow": {
+      "category": "gear",
+      "buy": "250.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:axolotl_bucket": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:azalea": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:azalea_leaves": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:azure_bluet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:baked_potato": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo": {
+      "category": "blocks",
+      "buy": "10.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_chest_raft": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_door": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_fence": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_fence_gate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_hanging_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_mosaic": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_mosaic_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_mosaic_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_planks": {
+      "category": "blocks",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_raft": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_shelf": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bamboo_trapdoor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:barrel": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:basalt": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bee_nest": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:beef": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:beehive": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:beetroot": {
+      "category": "food",
+      "buy": "20.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:beetroot_seeds": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:beetroot_soup": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bell": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:big_dripleaf": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_chest_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_door": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_fence": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_fence_gate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_hanging_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_leaves": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_planks": {
+      "category": "blocks",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_sapling": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_shelf": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_trapdoor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:birch_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:black_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blackstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blackstone_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blackstone_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blackstone_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blast_furnace": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blaze_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blaze_rod": {
+      "category": "ingredients",
+      "buy": "1500.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:blue_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_egg": {
+      "category": "new",
+      "buy": "20.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:blue_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_ice": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_orchid": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:blue_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bone": {
+      "category": "ingredients",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bone_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bone_meal": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:book": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bookshelf": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bordure_indented_banner_pattern": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bow": {
+      "category": "gear",
+      "buy": "250.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bowl": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brain_coral": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brain_coral_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brain_coral_fan": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bread": {
+      "category": "food",
+      "buy": "60.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:brewing_stand": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brick": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brick_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brick_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brick_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_egg": {
+      "category": "new",
+      "buy": "20.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:brown_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_mushroom": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_mushroom_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brown_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:brush": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bubble_coral": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bubble_coral_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bubble_coral_fan": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bucket": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bundle": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:bush": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cactus": {
+      "category": "blocks",
+      "buy": "20.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cactus_flower": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cake": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:calcite": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:calibrated_sculk_sensor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:campfire": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:carrot": {
+      "category": "food",
+      "buy": "20.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:carrot_on_a_stick": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cartography_table": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:carved_pumpkin": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cauldron": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chainmail_boots": {
+      "category": "gear",
+      "buy": "1440.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:chainmail_chestplate": {
+      "category": "gear",
+      "buy": "2880.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:chainmail_helmet": {
+      "category": "gear",
+      "buy": "1800.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:chainmail_leggings": {
+      "category": "gear",
+      "buy": "2520.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:charcoal": {
+      "category": "ingredients",
+      "buy": "20.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:cherry_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_chest_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_door": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_fence": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_fence_gate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_hanging_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_leaves": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_planks": {
+      "category": "blocks",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_sapling": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_shelf": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_trapdoor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cherry_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chest": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chest_minecart": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chicken": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chipped_anvil": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_bookshelf": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_cinnabar": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_copper": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_deepslate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_nether_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_polished_blackstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_quartz_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_red_sandstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_resin_bricks": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_sandstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_stone_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_sulfur": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_tuff": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chiseled_tuff_bricks": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:chorus_plant": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cinnabar": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cinnabar_brick_slab": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cinnabar_brick_stairs": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cinnabar_brick_wall": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cinnabar_bricks": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cinnabar_slab": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cinnabar_stairs": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cinnabar_wall": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:clay": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:clay_ball": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:clock": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:closed_eyeblossom": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:coal": {
+      "category": "ingredients",
+      "buy": "20.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:coal_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:coal_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:coarse_dirt": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cobbled_deepslate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cobbled_deepslate_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cobbled_deepslate_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cobbled_deepslate_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cobblestone": {
+      "category": "blocks",
+      "buy": "5.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cobblestone_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cobblestone_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cobblestone_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cobweb": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cocoa_beans": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cod": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cod_bucket": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:comparator": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:compass": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:composter": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cooked_beef": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:cooked_chicken": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cooked_cod": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cooked_mutton": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cooked_porkchop": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:cooked_rabbit": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cooked_salmon": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cookie": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_axe": {
+      "category": "new",
+      "buy": "108.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:copper_bars": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_block": {
+      "category": "blocks",
+      "buy": "270.00",
+      "sell": "0.90",
+      "enabled": true
+    },
+    "minecraft:copper_boots": {
+      "category": "new",
+      "buy": "144.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:copper_bulb": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_chain": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_chest": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_chestplate": {
+      "category": "new",
+      "buy": "288.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:copper_door": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_golem_statue": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_grate": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_helmet": {
+      "category": "new",
+      "buy": "180.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:copper_hoe": {
+      "category": "new",
+      "buy": "72.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:copper_horse_armor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_ingot": {
+      "category": "ingredients",
+      "buy": "30.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:copper_lantern": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_leggings": {
+      "category": "new",
+      "buy": "252.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:copper_nautilus_armor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_nugget": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_pickaxe": {
+      "category": "new",
+      "buy": "108.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:copper_shovel": {
+      "category": "new",
+      "buy": "36.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:copper_spear": {
+      "category": "new",
+      "buy": "108.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:copper_sword": {
+      "category": "new",
+      "buy": "72.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:copper_torch": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:copper_trapdoor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cornflower": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cracked_deepslate_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cracked_deepslate_tiles": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cracked_nether_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cracked_polished_blackstone_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cracked_stone_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crafter": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crafting_table": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:creaking_heart": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:creeper_banner_pattern": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_door": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_fence": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_fence_gate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_fungus": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_hanging_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_hyphae": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_nylium": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_planks": {
+      "category": "blocks",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_roots": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_shelf": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_stem": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crimson_trapdoor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crossbow": {
+      "category": "gear",
+      "buy": "250.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:crying_obsidian": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cut_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cut_copper_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cut_copper_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cut_red_sandstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cut_red_sandstone_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cut_sandstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cut_sandstone_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:cyan_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:damaged_anvil": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dandelion": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_chest_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_door": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_fence": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_fence_gate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_hanging_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_leaves": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_planks": {
+      "category": "blocks",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_sapling": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_shelf": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_trapdoor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_oak_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_prismarine": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_prismarine_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dark_prismarine_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:daylight_detector": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_brain_coral": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_brain_coral_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_brain_coral_fan": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_bubble_coral": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_bubble_coral_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_bubble_coral_fan": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_bush": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_fire_coral": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_fire_coral_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_fire_coral_fan": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_horn_coral": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_horn_coral_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_horn_coral_fan": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_tube_coral": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_tube_coral_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dead_tube_coral_fan": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:decorated_pot": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_brick_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_brick_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_brick_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_coal_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_copper_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_diamond_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_emerald_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_gold_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_iron_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_lapis_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_redstone_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_tile_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_tile_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_tile_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:deepslate_tiles": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:detector_rail": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:diamond": {
+      "category": "ingredients",
+      "buy": "5000.00",
+      "sell": "25.00",
+      "enabled": true
+    },
+    "minecraft:diamond_axe": {
+      "category": "gear",
+      "buy": "18000.00",
+      "sell": "5.00",
+      "enabled": true
+    },
+    "minecraft:diamond_block": {
+      "category": "blocks",
+      "buy": "45000.00",
+      "sell": "225.00",
+      "enabled": true
+    },
+    "minecraft:diamond_boots": {
+      "category": "gear",
+      "buy": "24000.00",
+      "sell": "5.00",
+      "enabled": true
+    },
+    "minecraft:diamond_chestplate": {
+      "category": "gear",
+      "buy": "48000.00",
+      "sell": "5.00",
+      "enabled": true
+    },
+    "minecraft:diamond_helmet": {
+      "category": "gear",
+      "buy": "30000.00",
+      "sell": "5.00",
+      "enabled": true
+    },
+    "minecraft:diamond_hoe": {
+      "category": "gear",
+      "buy": "12000.00",
+      "sell": "5.00",
+      "enabled": true
+    },
+    "minecraft:diamond_horse_armor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:diamond_leggings": {
+      "category": "gear",
+      "buy": "42000.00",
+      "sell": "5.00",
+      "enabled": true
+    },
+    "minecraft:diamond_nautilus_armor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:diamond_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:diamond_pickaxe": {
+      "category": "gear",
+      "buy": "18000.00",
+      "sell": "5.00",
+      "enabled": true
+    },
+    "minecraft:diamond_shovel": {
+      "category": "gear",
+      "buy": "6000.00",
+      "sell": "5.00",
+      "enabled": true
+    },
+    "minecraft:diamond_spear": {
+      "category": "new",
+      "buy": "18000.00",
+      "sell": "5.00",
+      "enabled": true
+    },
+    "minecraft:diamond_sword": {
+      "category": "gear",
+      "buy": "12000.00",
+      "sell": "5.00",
+      "enabled": true
+    },
+    "minecraft:diorite": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:diorite_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:diorite_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:diorite_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dirt": {
+      "category": "blocks",
+      "buy": "5.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dirt_path": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:disc_fragment_5": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dispenser": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dried_ghast": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dried_kelp": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dried_kelp_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dripstone_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:dropper": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:egg": {
+      "category": "food",
+      "buy": "15.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:emerald": {
+      "category": "ingredients",
+      "buy": "7500.00",
+      "sell": "0.25",
+      "enabled": true
+    },
+    "minecraft:emerald_block": {
+      "category": "blocks",
+      "buy": "67500.00",
+      "sell": "2.25",
+      "enabled": true
+    },
+    "minecraft:emerald_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:enchanting_table": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:end_stone_brick_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:end_stone_brick_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:end_stone_brick_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:ender_chest": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:ender_eye": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:ender_pearl": {
+      "category": "blocks",
+      "buy": "1000.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:experience_bottle": {
+      "category": "blocks",
+      "buy": "1500.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:exposed_chiseled_copper": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_copper_bars": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_copper_bulb": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_copper_chain": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_copper_chest": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_copper_door": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_copper_golem_statue": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_copper_grate": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_copper_lantern": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_copper_trapdoor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_cut_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_cut_copper_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_cut_copper_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:exposed_lightning_rod": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:farmland": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:feather": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:fermented_spider_eye": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:fern": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:field_masoned_banner_pattern": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:fire_charge": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:fire_coral": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:fire_coral_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:fire_coral_fan": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:firefly_bush": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:firework_rocket": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:firework_star": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:fishing_rod": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:fletching_table": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:flint": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:flint_and_steel": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:flow_banner_pattern": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:flower_banner_pattern": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:flower_pot": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:flowering_azalea": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:flowering_azalea_leaves": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:furnace": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:furnace_minecart": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:ghast_tear": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gilded_blackstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:glass_bottle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:glistering_melon_slice": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:globe_banner_pattern": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:glow_berries": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:glow_ink_sac": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:glow_item_frame": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:glow_lichen": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:glowstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:glowstone_dust": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:goat_horn": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gold_block": {
+      "category": "blocks",
+      "buy": "2250.00",
+      "sell": "6.75",
+      "enabled": true
+    },
+    "minecraft:gold_ingot": {
+      "category": "ingredients",
+      "buy": "250.00",
+      "sell": "0.75",
+      "enabled": true
+    },
+    "minecraft:gold_nugget": {
+      "category": "ingredients",
+      "buy": "30.00",
+      "sell": "0.08",
+      "enabled": true
+    },
+    "minecraft:gold_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:golden_apple": {
+      "category": "food",
+      "buy": "3000.00",
+      "sell": "0.50",
+      "enabled": true
+    },
+    "minecraft:golden_axe": {
+      "category": "gear",
+      "buy": "900.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:golden_boots": {
+      "category": "gear",
+      "buy": "1200.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:golden_carrot": {
+      "category": "food",
+      "buy": "500.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:golden_chestplate": {
+      "category": "gear",
+      "buy": "2400.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:golden_dandelion": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:golden_helmet": {
+      "category": "gear",
+      "buy": "1500.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:golden_hoe": {
+      "category": "gear",
+      "buy": "600.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:golden_horse_armor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:golden_leggings": {
+      "category": "gear",
+      "buy": "2100.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:golden_nautilus_armor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:golden_pickaxe": {
+      "category": "gear",
+      "buy": "900.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:golden_shovel": {
+      "category": "gear",
+      "buy": "300.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:golden_spear": {
+      "category": "new",
+      "buy": "900.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:golden_sword": {
+      "category": "gear",
+      "buy": "600.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:granite": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:granite_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:granite_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:granite_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:grass_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gravel": {
+      "category": "blocks",
+      "buy": "10.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gray_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:green_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:grindstone": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:gunpowder": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:guster_banner_pattern": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:hanging_roots": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:hay_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:heavy_weighted_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:honey_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:honey_bottle": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:honeycomb": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:honeycomb_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:hopper": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:hopper_minecart": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:horn_coral": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:horn_coral_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:horn_coral_fan": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:ice": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:ink_sac": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:iron_axe": {
+      "category": "gear",
+      "buy": "540.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:iron_bars": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:iron_block": {
+      "category": "blocks",
+      "buy": "1350.00",
+      "sell": "4.50",
+      "enabled": true
+    },
+    "minecraft:iron_boots": {
+      "category": "gear",
+      "buy": "720.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:iron_chain": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:iron_chestplate": {
+      "category": "gear",
+      "buy": "1440.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:iron_door": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:iron_helmet": {
+      "category": "gear",
+      "buy": "900.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:iron_hoe": {
+      "category": "gear",
+      "buy": "360.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:iron_horse_armor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:iron_ingot": {
+      "category": "ingredients",
+      "buy": "150.00",
+      "sell": "0.50",
+      "enabled": true
+    },
+    "minecraft:iron_leggings": {
+      "category": "gear",
+      "buy": "1260.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:iron_nautilus_armor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:iron_nugget": {
+      "category": "ingredients",
+      "buy": "20.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:iron_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:iron_pickaxe": {
+      "category": "gear",
+      "buy": "540.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:iron_shovel": {
+      "category": "gear",
+      "buy": "180.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:iron_spear": {
+      "category": "new",
+      "buy": "540.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:iron_sword": {
+      "category": "gear",
+      "buy": "360.00",
+      "sell": "0.10",
+      "enabled": true
+    },
+    "minecraft:iron_trapdoor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:item_frame": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jack_o_lantern": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jukebox": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_chest_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_door": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_fence": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_fence_gate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_hanging_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_leaves": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_planks": {
+      "category": "blocks",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_sapling": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_shelf": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_trapdoor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:jungle_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:kelp": {
+      "category": "blocks",
+      "buy": "10.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:ladder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lantern": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lapis_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lapis_lazuli": {
+      "category": "ingredients",
+      "buy": "40.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:lapis_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:large_amethyst_bud": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:large_fern": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lava_bucket": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lead": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:leaf_litter": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:leather": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:leather_boots": {
+      "category": "gear",
+      "buy": "480.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:leather_chestplate": {
+      "category": "gear",
+      "buy": "960.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:leather_helmet": {
+      "category": "gear",
+      "buy": "600.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:leather_horse_armor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:leather_leggings": {
+      "category": "gear",
+      "buy": "840.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:lectern": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lever": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_blue_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_gray_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:light_weighted_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lightning_rod": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lilac": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lily_of_the_valley": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lily_pad": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lime_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:lodestone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:loom": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magenta_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magma_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:magma_cream": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_chest_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_door": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_fence": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_fence_gate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_hanging_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_leaves": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_planks": {
+      "category": "blocks",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_propagule": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_roots": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_shelf": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_trapdoor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mangrove_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:map": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:medium_amethyst_bud": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:melon": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:melon_seeds": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:melon_slice": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:milk_bucket": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:minecart": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mojang_banner_pattern": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:moss_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:moss_carpet": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mossy_cobblestone": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mossy_cobblestone_slab": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mossy_cobblestone_stairs": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mossy_cobblestone_wall": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mossy_stone_brick_slab": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mossy_stone_brick_stairs": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mossy_stone_brick_wall": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mossy_stone_bricks": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mud": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mud_brick_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mud_brick_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mud_brick_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mud_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:muddy_mangrove_roots": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mushroom_stem": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mushroom_stew": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mutton": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:mycelium": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:name_tag": {
+      "category": "utility",
+      "buy": "2500.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:nether_brick": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:nether_brick_fence": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:nether_brick_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:nether_brick_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:nether_brick_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:nether_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:nether_gold_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:nether_quartz_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:nether_sprouts": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:nether_wart": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:nether_wart_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:netherrack": {
+      "category": "blocks",
+      "buy": "10.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:note_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_chest_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_door": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_fence": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_fence_gate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_hanging_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_leaves": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_planks": {
+      "category": "blocks",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_sapling": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_shelf": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_trapdoor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oak_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:observer": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:obsidian": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:ochre_froglight": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:open_eyeblossom": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_tulip": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:orange_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxeye_daisy": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_chiseled_copper": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_copper_bars": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_copper_bulb": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_copper_chain": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_copper_chest": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_copper_door": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_copper_golem_statue": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_copper_grate": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_copper_lantern": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_copper_trapdoor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_cut_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_cut_copper_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_cut_copper_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:oxidized_lightning_rod": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:packed_ice": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:packed_mud": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:painting": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_hanging_moss": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_moss_block": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_moss_carpet": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_boat": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_button": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_chest_boat": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_door": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_fence": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_fence_gate": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_hanging_sign": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_leaves": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_log": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_planks": {
+      "category": "new",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_pressure_plate": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_sapling": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_shelf": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_sign": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_slab": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_stairs": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_trapdoor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pale_oak_wood": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:paper": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pearlescent_froglight": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:peony": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:petrified_oak_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:phantom_membrane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:piglin_banner_pattern": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_petals": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_tulip": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pink_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:piston": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pitcher_plant": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pitcher_pod": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:podzol": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pointed_dripstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:poisonous_potato": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_andesite": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_andesite_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_andesite_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_basalt": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_blackstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_blackstone_brick_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_blackstone_brick_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_blackstone_brick_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_blackstone_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_blackstone_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_blackstone_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_blackstone_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_blackstone_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_blackstone_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_cinnabar": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_cinnabar_slab": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_cinnabar_stairs": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_cinnabar_wall": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_deepslate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_deepslate_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_deepslate_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_deepslate_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_diorite": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_diorite_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_diorite_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_granite": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_granite_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_granite_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_sulfur": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_sulfur_slab": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_sulfur_stairs": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_sulfur_wall": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_tuff": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_tuff_slab": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_tuff_stairs": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:polished_tuff_wall": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:poppy": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:porkchop": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:potato": {
+      "category": "food",
+      "buy": "20.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:potent_sulfur": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:powder_snow_bucket": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:powered_rail": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:prismarine": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:prismarine_brick_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:prismarine_brick_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:prismarine_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:prismarine_crystals": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:prismarine_shard": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:prismarine_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:prismarine_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:prismarine_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pufferfish": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pufferfish_bucket": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pumpkin": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pumpkin_pie": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:pumpkin_seeds": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:purple_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:quartz": {
+      "category": "ingredients",
+      "buy": "50.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:quartz_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:quartz_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:quartz_pillar": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:quartz_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:quartz_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:rabbit": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:rabbit_foot": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:rabbit_hide": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:rabbit_stew": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:rail": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:raw_copper": {
+      "category": "blocks",
+      "buy": "20.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:raw_copper_block": {
+      "category": "blocks",
+      "buy": "180.00",
+      "sell": "0.45",
+      "enabled": true
+    },
+    "minecraft:raw_gold": {
+      "category": "blocks",
+      "buy": "175.00",
+      "sell": "0.50",
+      "enabled": true
+    },
+    "minecraft:raw_gold_block": {
+      "category": "blocks",
+      "buy": "1575.00",
+      "sell": "4.50",
+      "enabled": true
+    },
+    "minecraft:raw_iron": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.35",
+      "enabled": true
+    },
+    "minecraft:raw_iron_block": {
+      "category": "blocks",
+      "buy": "900.00",
+      "sell": "3.15",
+      "enabled": true
+    },
+    "minecraft:red_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_mushroom": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_mushroom_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_nether_brick_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_nether_brick_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_nether_brick_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_nether_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_sand": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_sandstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_sandstone_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_sandstone_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_sandstone_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_tulip": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:red_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:redstone": {
+      "category": "redstone",
+      "buy": "25.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:redstone_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:redstone_lamp": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:redstone_ore": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:redstone_torch": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:repeater": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:resin_block": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:resin_brick": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:resin_brick_slab": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:resin_brick_stairs": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:resin_brick_wall": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:resin_bricks": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:resin_clump": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:respawn_anchor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:rooted_dirt": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:rose_bush": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:rotten_flesh": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:saddle": {
+      "category": "utility",
+      "buy": "3000.00",
+      "sell": "0.05",
+      "enabled": true
+    },
+    "minecraft:salmon": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:salmon_bucket": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sand": {
+      "category": "blocks",
+      "buy": "10.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sandstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sandstone_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sandstone_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sandstone_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:scaffolding": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sculk": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sculk_catalyst": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sculk_sensor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sculk_shrieker": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sculk_vein": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sea_lantern": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sea_pickle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:seagrass": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:shears": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:shield": {
+      "category": "gear",
+      "buy": "250.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:short_dry_grass": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:short_grass": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:shroomlight": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:skull_banner_pattern": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:slime_ball": {
+      "category": "ingredients",
+      "buy": "150.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:slime_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:small_amethyst_bud": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:small_dripleaf": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smithing_table": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smoker": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smooth_basalt": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smooth_quartz": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smooth_quartz_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smooth_quartz_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smooth_red_sandstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smooth_red_sandstone_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smooth_red_sandstone_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smooth_sandstone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smooth_sandstone_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smooth_sandstone_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smooth_stone": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:smooth_stone_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:snow": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:snow_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:snowball": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:soul_campfire": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:soul_lantern": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:soul_sand": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:soul_soil": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:soul_torch": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spectral_arrow": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spider_eye": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spore_blossom": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_chest_boat": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_door": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_fence": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_fence_gate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_hanging_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_leaves": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_planks": {
+      "category": "blocks",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_sapling": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_shelf": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_trapdoor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spruce_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:spyglass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stick": {
+      "category": "ingredients",
+      "buy": "2.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sticky_piston": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone": {
+      "category": "blocks",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_axe": {
+      "category": "gear",
+      "buy": "54.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_brick_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_brick_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_brick_wall": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_bricks": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_hoe": {
+      "category": "gear",
+      "buy": "36.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_pickaxe": {
+      "category": "gear",
+      "buy": "54.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_shovel": {
+      "category": "gear",
+      "buy": "18.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_spear": {
+      "category": "new",
+      "buy": "54.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stone_sword": {
+      "category": "gear",
+      "buy": "36.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stonecutter": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:string": {
+      "category": "ingredients",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_acacia_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_acacia_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_bamboo_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_birch_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_birch_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_cherry_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_cherry_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_crimson_hyphae": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_crimson_stem": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_dark_oak_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_dark_oak_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_jungle_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_jungle_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_mangrove_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_mangrove_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_oak_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_oak_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_pale_oak_log": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_pale_oak_wood": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_spruce_log": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_spruce_wood": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_warped_hyphae": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:stripped_warped_stem": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sugar": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sugar_cane": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sulfur": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sulfur_brick_slab": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sulfur_brick_stairs": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sulfur_brick_wall": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sulfur_bricks": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sulfur_cube_bucket": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sulfur_slab": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sulfur_spike": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sulfur_stairs": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sulfur_wall": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sunflower": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:sweet_berries": {
+      "category": "food",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tadpole_bucket": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tall_dry_grass": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tall_grass": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:target": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tinted_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tnt": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tnt_minecart": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:torch": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:torchflower": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:torchflower_seeds": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:trapped_chest": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tripwire_hook": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tropical_fish": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tropical_fish_bucket": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tube_coral": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tube_coral_block": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tube_coral_fan": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tuff": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tuff_brick_slab": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tuff_brick_stairs": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tuff_brick_wall": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tuff_bricks": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tuff_slab": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tuff_stairs": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:tuff_wall": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:turtle_helmet": {
+      "category": "gear",
+      "buy": "250.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:turtle_scute": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:twisting_vines": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:verdant_froglight": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:vine": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_button": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_door": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_fence": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_fence_gate": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_fungus": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_fungus_on_a_stick": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_hanging_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_hyphae": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_nylium": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_planks": {
+      "category": "blocks",
+      "buy": "8.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_pressure_plate": {
+      "category": "redstone",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_roots": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_shelf": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_sign": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_stem": {
+      "category": "blocks",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_trapdoor": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:warped_wart_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:water_bucket": {
+      "category": "utility",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_chiseled_copper": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_copper_bars": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_copper_block": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_copper_bulb": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_copper_chain": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_copper_chest": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_copper_door": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_copper_golem_statue": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_copper_grate": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_copper_lantern": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_copper_trapdoor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_cut_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_cut_copper_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_cut_copper_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_chiseled_copper": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_copper_bars": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_copper_bulb": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_copper_chain": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_copper_chest": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_copper_door": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_copper_golem_statue": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_copper_grate": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_copper_lantern": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_copper_trapdoor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_cut_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_cut_copper_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_cut_copper_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_exposed_lightning_rod": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_lightning_rod": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_chiseled_copper": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_copper_bars": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_copper_bulb": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_copper_chain": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_copper_chest": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_copper_door": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_copper_golem_statue": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_copper_grate": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_copper_lantern": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_copper_trapdoor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_cut_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_cut_copper_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_cut_copper_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_oxidized_lightning_rod": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_chiseled_copper": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_copper_bars": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_copper_bulb": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_copper_chain": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_copper_chest": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_copper_door": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_copper_golem_statue": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_copper_grate": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_copper_lantern": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_copper_trapdoor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_cut_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_cut_copper_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_cut_copper_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:waxed_weathered_lightning_rod": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_chiseled_copper": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_copper_bars": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_copper_bulb": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_copper_chain": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_copper_chest": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_copper_door": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_copper_golem_statue": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_copper_grate": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_copper_lantern": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_copper_trapdoor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_cut_copper": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_cut_copper_slab": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_cut_copper_stairs": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weathered_lightning_rod": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:weeping_vines": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:wheat": {
+      "category": "food",
+      "buy": "20.00",
+      "sell": "0.02",
+      "enabled": true
+    },
+    "minecraft:wheat_seeds": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_tulip": {
+      "category": "nature",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:white_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:wildflowers": {
+      "category": "new",
+      "buy": "25.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:wind_charge": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:wither_rose": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:wolf_armor": {
+      "category": "new",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:wooden_axe": {
+      "category": "gear",
+      "buy": "36.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:wooden_hoe": {
+      "category": "gear",
+      "buy": "24.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:wooden_pickaxe": {
+      "category": "gear",
+      "buy": "36.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:wooden_shovel": {
+      "category": "gear",
+      "buy": "12.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:wooden_spear": {
+      "category": "new",
+      "buy": "36.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:wooden_sword": {
+      "category": "gear",
+      "buy": "24.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:writable_book": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_banner": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_bed": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_bundle": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_candle": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_carpet": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_concrete": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_concrete_powder": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_dye": {
+      "category": "ingredients",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_glazed_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_harness": {
+      "category": "new",
+      "buy": "500.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_stained_glass": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_stained_glass_pane": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_terracotta": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    },
+    "minecraft:yellow_wool": {
+      "category": "blocks",
+      "buy": "100.00",
+      "sell": "0.01",
+      "enabled": true
+    }
+  }
+}

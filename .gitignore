@@ -1,0 +1,10 @@
+.gradle/
+build/
+run/
+.idea/
+*.iml
+
+dist/
+libs/ECO-API-lyn-1.0.0.jar
+libs/ECO-API-lyn-1.1.0.jar
+logs/
